@@ -2,7 +2,7 @@
 
 👀 I’m interested in exploring diverse AI fields such as NLP, computer vision, probabilistic graphical models (PGMs), and Variational Autoencoders (VAEs).
 
-🌱 I’m currently learning about Probabilistic Circuits, diving deep into how they can enhance machine learning models by providing a more structured probabilistic framework.
+🌱 I’m currently learning about Probabilistic Circuits (PCs), diving deep into how they can enhance machine learning models by providing a more structured probabilistic framework.
 
 📫 How to reach me: You can send me an email at irfanhamid098@gmail.com , or connect with me on LinkedIn at linkedin.com/in/irfan-hamid.
 
