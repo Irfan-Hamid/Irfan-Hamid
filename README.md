@@ -1,4 +1,4 @@
-Hi, I'm Irfan! I recently completed an MSc in Artificial Intelligence at the University of Edinburgh. I'm passionate about developing innovative AI solutions and am particularly interested in deep learning, natural language processing, and computer vision. Feel free to check out my repositories and reach out if you're interested in working together or exchanging ideas!
+Hi, I'm Irfan! I recently completed an MSc in Artificial Intelligence at the University of Edinburgh. I'm passionate about developing innovative AI solutions. Feel free to check out my repositories and reach out if you're interested in working together or exchanging ideas!
 
 I’m currently learning about Probabilistic Circuits (PCs), diving deep into how they can enhance machine learning models by providing a more structured probabilistic framework.
 
