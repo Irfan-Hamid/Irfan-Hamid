@@ -1,6 +1,4 @@
-Hi, I'm Irfan! I recently completed an MSc in Artificial Intelligence at the University of Edinburgh. I'm passionate about developing innovative AI solutions. Feel free to check out my repositories and reach out if you're interested in working together or exchanging ideas!
-
-I’m currently learning about Probabilistic Circuits (PCs), diving deep into how they can enhance machine learning models by providing a more structured probabilistic framework.
+Hi, I'm Irfan!, I'm passionate about developing innovative AI solutions.
 
 How to reach me: You can send me an email at irfanhamid19@gmail.com , or connect with me on LinkedIn at linkedin.com/in/irfan-hamid.
 
